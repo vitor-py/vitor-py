@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitor-py  
 - 👀 I’m interested in Artificial Intelligence and Cybersecurity.  
-- 🌱 I’m currently learning Data Science, Machine Learning, and Deep Learning.  
+- 🌱 I’m currently learning Data Science, Machine Learning and Deep Learning.  
 - 💻 In my free time, I enjoy reading books about neural networks and also about mathematics.  
 - 🤝 Let's connect and learn together!
 <!---

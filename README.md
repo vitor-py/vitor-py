@@ -1,5 +1,9 @@
 # 🚀 Welcome to @vitor-py’s Universe of Code:
-<br>    👋 Hi, I’m @vitor-py<br>    🔐 AI x Cybersecurity Enthusiast.<br>    🌱 I’m currently learning Data Science, Machine Learning and Deep Learning.<br>    💻 In my free time, I enjoy reading books about neural networks and also about mathematics.<br>    🤝 Let's connect and learn together!<br><br>
+<br>    👋 Hi, I’m @vitor-py<br>    🔐 AI x Cybersecurity Enthusiast.<br>    🌱 I’m currently learning Data Science and Deep Learning.<br>    💻 I enjoy neural networks and mathematics.<br>    🤝 Let's connect and learn together!<br><br>
+ <div>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd1ODYwMGpuZHFvODkxMmRxNTV3ZDlsZDk2ODRkbG1heDA4c2kyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/doXBzUFJRxpaUbuaqz/giphy.gif" width="250px" alt="Anime Coding GIF"/>
+</div>
+
 
 
 ## 🌐 Socials:
@@ -13,9 +17,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-py&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vitor-py&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

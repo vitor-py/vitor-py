@@ -1,5 +1,9 @@
-# 🚀 Welcome to @vitor-py’s Universe of Code:
-<br>    👋 Hi, I’m @vitor-py<br>    🔐 AI x Cybersecurity Enthusiast.<br>    🌱 I’m currently learning Data Science and Deep Learning.<br>    💻 I enjoy neural networks and mathematics.<br>    🤝 Let's connect and learn together!<br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+Universe+of;Data+Science+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
+
+</p>
+<br>    👋 Hi, I’m Vitor Gomes de Negreiros<br>    🔐 AI x Cybersecurity Enthusiast.<br>    🌱 I’m currently learning Data Science and Deep Learning.<br>    💻 I enjoy neural networks and mathematics.<br>    🤝 Let's connect and learn together!<br><br>
  <div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd1ODYwMGpuZHFvODkxMmRxNTV3ZDlsZDk2ODRkbG1heDA4c2kyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/doXBzUFJRxpaUbuaqz/giphy.gif" width="250px" alt="Anime Coding GIF"/>
 </div>

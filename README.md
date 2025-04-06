@@ -3,7 +3,7 @@
 </p>
 
 </p>
-<br>    👋 Hi, I’m Vitor Gomes de Negreiros<br>    🔐 AI x Cybersecurity Enthusiast.<br>    🌱 I’m currently learning Data Science and Deep Learning.<br>    💻 I enjoy neural networks and mathematics.<br>    🤝 Let's connect and learn together!<br><br>
+<br>    👋 Hi, I’m Vitor Gomes de Negreiros<br>    🔐 AI x Cybersecurity Enthusiast.<br>    🌱 I’m currently learning Data Science and Deep Learning.<br>    💻 I enjoy neural networks and algorithms.<br>    🤝 Let's connect and learn together!<br><br>
  <div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd1ODYwMGpuZHFvODkxMmRxNTV3ZDlsZDk2ODRkbG1heDA4c2kyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/doXBzUFJRxpaUbuaqz/giphy.gif" width="250px" alt="Anime Coding GIF"/>
 </div>

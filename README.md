@@ -1,6 +1,6 @@
 <p align="center">   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+Universe+of;Data+Science+%F0%9F%94%A5" alt="Typing SVG" /> </p>
 <h2 align="left">Hi 👋! My name is Vitor Gomes de Negreiros</h2>
-# 💫 About Me:
+<p>💫 About Me:</p>
 🔐 AI x Cybersecurity Enthusiast.<br>🌱 I’m currently learning Data Science and Deep Learning.<br>💻 I enjoy neural networks and algorithms.<br>🤝 Let's connect and learn together!<br>
 
 
